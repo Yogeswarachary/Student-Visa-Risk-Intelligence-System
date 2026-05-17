@@ -23,7 +23,7 @@ The **Student Visa Risk Intelligence System** simulates how applicant profiles c
 - Document validation quality
 - Risk segmentation and executive-level monitoring
 
-The application is designed as a lightweight but well-structured GitHub portfolio project, with business logic split into reusable modules under the `src/` folder. The project entry point is `app.py`, which loads the dashboard and predictive evaluator modules. [file:78][file:74][file:71]
+The application is designed as a lightweight but well-structured GitHub portfolio project, with business logic split into reusable modules under the `src/` folder. The project entry point is `app.py`, which loads the dashboard and predictive evaluator modules.
 
 ---
 
@@ -82,7 +82,7 @@ student_visa_risk_system/
     └── evaluator.py
 ```
 
-The app starts from `app.py`, which loads data generation, model training, dashboard rendering, and evaluator rendering through the `src` modules. [file:78]
+The app starts from `app.py`, which loads data generation, model training, dashboard rendering, and evaluator rendering through the `src` modules.
 
 ---
 
@@ -131,7 +131,7 @@ The application will usually open in your browser at:
 http://localhost:8501
 ```
 
-Since `app.py` is the project entry point, this is the only command needed to launch the full dashboard and evaluator experience. [file:78]
+Since `app.py` is the project entry point, this is the only command needed to launch the full dashboard and evaluator experience.
 
 ---
 
@@ -209,26 +209,6 @@ A small noise factor is also added to make the target more realistic.
 
 ---
 
-## Why This Project Is Good for a Portfolio
-
-This project is useful for showcasing:
-
-- applied machine learning
-- business-rule engineering
-- synthetic data modeling
-- Streamlit dashboard development
-- modular Python project structure
-- explainability and decision-support design
-
-It is especially strong for candidates targeting:
-- Data Analyst
-- Data Scientist
-- ML Engineer
-- AI Engineer
-- Risk Analytics roles
-
----
-
 ## Deployment
 
 This project can be deployed easily on **Streamlit Community Cloud**.
@@ -244,8 +224,6 @@ app.py
 - `README.md`
 - `.gitignore`
 - `src/`
-
-Because `app.py` imports all business modules from `src`, make sure the entire `src` folder is pushed to GitHub. [file:78]
 
 ---
 
@@ -279,4 +257,4 @@ Possible improvements for future versions:
 
 **Yogeswarachary Modepalli**
 
-This project is designed as a clean, recruiter-friendly portfolio artifact to demonstrate practical data science, machine learning, and interactive analytics engineering.
+This project is designed as a clean, user friendly to demonstrate practical data science, machine learning, and interactive analytics engineering.
