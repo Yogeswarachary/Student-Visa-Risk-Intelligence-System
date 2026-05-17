@@ -1,4 +1,4 @@
-# Student Visa Risk Intelligence System
+# Applicant-Risk-Intelligence-and-Decision-Monitoring-System
 
 A modular, portfolio-ready Streamlit application for **student visa risk analysis**, built using synthetic data, machine learning, rule-based screening, and interactive dashboarding.
 
@@ -15,7 +15,7 @@ This project demonstrates how to build an end-to-end applied data science soluti
 
 ## Project Overview
 
-The **Student Visa Risk Intelligence System** simulates how applicant profiles can be analyzed for:
+The **Applicant-Risk-Intelligence-and-Decision-Monitoring-System** simulates how applicant profiles can be analyzed for:
 
 - Visa approval probability
 - Estimated visa processing time
